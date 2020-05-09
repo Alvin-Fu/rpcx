@@ -7,8 +7,8 @@ import (
 
 	"github.com/abronan/valkeyrie"
 	"github.com/abronan/valkeyrie/store"
-	"github.com/smallnest/rpcx/log"
-	"github.com/smallnest/valkeyrie/store/redis"
+	"github.com/Alvin-Fu/rpcx/log"
+	"github.com/Alvin-Fu/valkeyrie/store/redis"
 )
 
 func init() {

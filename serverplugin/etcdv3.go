@@ -13,8 +13,8 @@ import (
 	"github.com/docker/libkv"
 	"github.com/docker/libkv/store"
 	metrics "github.com/rcrowley/go-metrics"
-	etcd "github.com/smallnest/libkv-etcdv3-store"
-	"github.com/smallnest/rpcx/log"
+	etcd "github.com/Alvin-Fu/libkv-etcdv3-store"
+	"github.com/Alvin-Fu/rpcx/log"
 )
 
 func init() {
